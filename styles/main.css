@@ -14,9 +14,9 @@ body{
  height:160px;
  background: linear-gradient(
   135deg,
-  rgba(218, 11, 11, 0.9),
-  rgba(10, 247, 89, 0.9)
- );
+  rgba(0, 105, 148, 0.9),
+  rgba(0, 191, 165, 0.9)
+ ) !important;
 }
 #footer #footer-wrap,
 #footer-wrap a {
