@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://lxy-tech.github.io/post/4217.html</loc>
+    
+    <lastmod>2025-10-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lxy-tech.github.io/post/16107.html</loc>
     
     <lastmod>2025-10-23</lastmod>
@@ -19,6 +28,20 @@
   </url>
 
   
+  <url>
+    <loc>http://lxy-tech.github.io/tags/Python-%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://lxy-tech.github.io/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2025-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
