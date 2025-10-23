@@ -14,8 +14,8 @@ body{
  height:160px;
  background: linear-gradient(
   135deg,
-  rgba(23, 23, 116, 0.2),
-  rgba(28, 181, 224, 0.2)
+  rgba(255, 255, 255, 0.9),
+  rgba(225, 255, 251, 0.9)
  );
 }
 #footer #footer-wrap,
