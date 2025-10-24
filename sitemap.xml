@@ -11,6 +11,24 @@
   </url>
   
   <url>
+    <loc>http://lxy-tech.github.io/tags/index.html</loc>
+    
+    <lastmod>2025-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lxy-tech.github.io/categories/index.html</loc>
+    
+    <lastmod>2025-10-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lxy-tech.github.io/posts/index.html</loc>
     
     <lastmod>2025-10-24</lastmod>
