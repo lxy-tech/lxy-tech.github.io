@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lxy-tech.github.io/tags/index.html</loc>
+    <loc>http://lxy-tech.github.io/posts/index.html</loc>
     
     <lastmod>2025-10-24</lastmod>
     
@@ -13,7 +13,7 @@
   <url>
     <loc>http://lxy-tech.github.io/post/4217.html</loc>
     
-    <lastmod>2025-10-23</lastmod>
+    <lastmod>2025-10-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
