@@ -8198,3 +8198,10 @@ blockquote.pullquote.right {
     transform: rotate(360deg);
   }
 }
+/* 文章顶部图片尺寸控制 */
+.post-top-img {
+  height: 330px; /* 自定义高度，可根据需求调整，如250px、350px等 */
+  width: 100%; /* 宽度占满容器，保持页面一致性 */
+  object-fit: cover; /* 保持图片比例，避免变形（推荐）；若需完整显示图片，可改为contain */
+  overflow: hidden; /* 隐藏超出容器的部分，配合object-fit使用 */
+}
