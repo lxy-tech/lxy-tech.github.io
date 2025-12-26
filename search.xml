@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Vivado创建工程</title>
+      <link href="/post/1.html"/>
+      <url>/post/1.html</url>
+      
+        <content type="html"><![CDATA[<p>1、点击create project。</p><img src="../image/p8.png" style="zoom:38%;" /><p>2、点击next。</p><img src="../image/p10.png" style="zoom:33%;" /><p>3、修改工程名（project name）和工程路径(project location)，工程路径一定不能包含空格，中文，特殊字符，因为vivado无法识别，同时工程路径长度不能超过146字符，超过会报错。勾选创建项目子目录（以工程名命名的子文件夹），点击next。</p><img src="../image/p7.png" style="zoom:33%;" /><p>4、创建一个RTL代码的工程（verilog工程），同时在创建工程中并不指定所需要的文件（Do not specify sources at this time）,再次next。</p><img src="../image/p11.png" style="zoom:33%;" /><p>5、选择器件型号（所使用FPGA板上的开发板型号）package（封装）family（芯片型号）speed grade（速度等级），选择325t，继续next</p><img src="../image/p12.png" style="zoom:33%;" /><p>6、点击finish</p><img src="../image/p13.png" style="zoom:33%;" /><p>7、等待创建工程</p><p>8、flow navigator 下面是基本的设计流程，design runs创建了synth_1和impl_1</p><img src="../image/p14.png" style="zoom:33%;" /><p>9、点击add sources，选择第二个选项，把相应的文件加到工程里，加入RTL代码。继续next。</p><p>第一个选项：添加约束文件；第二个选项：创建或添加一个源文件；第三个选项：创建一个用于仿真的源文件。</p><img src="../image/p15.png" style="zoom:33%;" /><p>10、Add files(添加现有文件)；选择第三个（create file）创建一个新文件。</p><img src="../image/p16.png" style="zoom:33%;" /><p>11、填写名称，与工程名称一致就可以了，其他名称也可以，但推荐与工程名称一致，然后点击OK。</p><img src="../image/p17.png" style="zoom:33%;" /><p>12、点击finish</p><p><img src="/../image/p18.png"></p><p>13、弹出下列窗口，输入设计的端口信息。不用管，点击OK继续。</p><img src="../image/p19.png" style="zoom:33%;" /><p>14、点击yes</p><img src="../image/p20.png" style="zoom:33%;" /><p>15、到现在文件就创建好了，双击文件名project1打开看一下里面的内容，就可以编写自己的程序了。</p><p><img src="/../image/p21.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> -FPGA </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> -FPGA -vivado </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Python笔记</title>
       <link href="/post/4217.html"/>
       <url>/post/4217.html</url>
