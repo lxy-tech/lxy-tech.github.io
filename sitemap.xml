@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://lxy-tech.github.io/post/0.html</loc>
+    
+    <lastmod>2026-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://lxy-tech.github.io/post/18478.html</loc>
     
     <lastmod>2026-01-05</lastmod>
@@ -74,14 +83,14 @@
 
   
   <url>
-    <loc>http://lxy-tech.github.io/tags/verilog/</loc>
+    <loc>http://lxy-tech.github.io/tags/FPGA-vivado/</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://lxy-tech.github.io/tags/FPGA-vivado/</loc>
+    <loc>http://lxy-tech.github.io/tags/verilog/</loc>
     <lastmod>2026-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
